@@ -1,1 +1,1 @@
-# Lesson-laravel-news-
+# Lesson-laravel-news
