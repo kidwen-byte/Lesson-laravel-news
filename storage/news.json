@@ -1,0 +1,58 @@
+{
+    "1": {
+        "id": 1,
+        "title": "Новость 11",
+        "text": "А у нас новость 1 и она очень хорошая!",
+        "isPrivate": false,
+        "image": null,
+        "category_id": 1
+    },
+    "2": {
+        "id": 2,
+        "title": "Новость 2",
+        "text": "А у нас новость 2 и она очень очень хорошая!",
+        "isPrivate": false,
+        "image": null,
+        "category_id": 1
+    },
+    "3": {
+        "id": 3,
+        "title": "Новость 3",
+        "text": "А тут плохие новости(((",
+        "isPrivate": true,
+        "image": null,
+        "category_id": 2
+    },
+    "4": {
+        "id": 4,
+        "title": "Новость 4",
+        "text": "А тут плохие плохие новости(((",
+        "isPrivate": false,
+        "image": null,
+        "category_id": 2
+    },
+    "5": {
+        "title": "44",
+        "category_id": "1",
+        "text": "55",
+        "id": 5,
+        "isPrivate": false,
+        "image": null
+    },
+    "6": {
+        "title": "44",
+        "category_id": "1",
+        "text": "333",
+        "image": "\/storage\/img\/MPxHg2mC65hSOd1WgyyiGkTADkYAm4gvmfdrMxcu.jpg",
+        "id": 6,
+        "isPrivate": false
+    },
+    "7": {
+        "title": "11",
+        "category_id": "1",
+        "text": "11",
+        "image": "\/storage\/img\/tp6J0RyYHo6Y1kde6HYjA0k933dQ7wqXfLhKIEkr.png",
+        "id": 7,
+        "isPrivate": false
+    }
+}
